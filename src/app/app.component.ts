@@ -6,9 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-      title='blog';
-      getName(name:any)
-      {
-        alert("function called "+name);
-      }
+      
 }
