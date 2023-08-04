@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./user-auth.component.css']
 })
 export class UserAuthComponent {
-  title='Multiple condition or else if';
-  color="blue";
+  title='switch case';
+  color="red";
   
 
 }
